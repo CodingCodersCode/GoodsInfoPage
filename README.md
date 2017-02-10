@@ -1,5 +1,6 @@
 # GoodsInfoPage
 仿京东、天猫app的商品详情页的布局架构, 以及功能实现
+这是我fork别人的代码做收藏，具体请看原作者：https://github.com/hexianqiao3755/GoodsInfoPage
 ___
 ##### 有需要做电商类app的童鞋可以看看, 首先先看看效果实现
 本项目使用的第三方框架:
